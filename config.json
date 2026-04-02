@@ -1,0 +1,10 @@
+{
+	"packages": [],
+    "sourcepackages": [
+        "https://github.com/neovim/neovim"
+    ],
+	"services": [],
+	"configdir": "configs",
+	"buildscriptsdir": "buildscripts",
+	"branchesdir": "branches"
+}
